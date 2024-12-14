@@ -4,6 +4,7 @@ Joint project (Mining, Learning and Reasoning on Web Graphs, Ecole Polytechnique
 Two large tabular databases are used for this study and can be downloaded at the following links:
 - https://www.data.gouv.fr/fr/datasets/effectif-de-patients-par-pathologie-sexe-classe-dage-et-territoire-departement-region/
 - https://www.data.gouv.fr/fr/datasets/finess-extraction-du-fichier-des-etablissements/#/resources
+
 The first one contains data on all healthcare facilities in France. The second one lists the number of patients for every category of disease in the country.
 
 # Files
