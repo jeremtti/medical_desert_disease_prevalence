@@ -10,6 +10,6 @@ The first one contains data on all healthcare facilities in France. The second o
 # Files
 - "creation_graphe.ipynb" creates a graph which gives the distances between every patient and every healthcare facility. It uses the information from the two datasets, as well as queries made to the database Wikidata and calls to the API of OpenStreetMap.
 - "requetes_et_visualisation.ipynb" uses this graph to extract relevant information for our analysis. Geopandas is used for vizualisation.
-- "rapport.pdf" finally analyses the results and details the visualizations made with Neo4j using Cypher queries.
+- "rapport.pdf" finally analyzes the results and details the visualizations made with Neo4j using Cypher queries.
 
 Note: this project (code and report) was written in French for the purpose of the class.
